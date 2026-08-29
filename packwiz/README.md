@@ -14,7 +14,7 @@
 ```bash
 cd /Users/supremes/minecraft_server_s
 git init
-git add packwiz/ docker-compose.yml .env.example
+git add packwiz/ docker-compose.yml
 git commit -m "packwiz modpack"
 git remote add origin https://github.com/<owner>/<repo>.git
 git branch -M main
@@ -50,11 +50,7 @@ git push
 
 ## 3. Сервер
 
-Впиши итоговую ссылку в `.env` рядом с `docker-compose.yml`:
-
-```
-PACKWIZ_URL=https://raw.githubusercontent.com/<owner>/<repo>/<branch>/packwiz/pack.toml
-```
+Ссылка уже прописана прямо в `docker-compose.yml` (`PACKWIZ_URL`). Если меняешь владельца/репозиторий/ветку — поправь её там же.
 
 `docker compose up -d` — при старте контейнер сам скачает все моды по ссылке (itzg/minecraft-server
 поддерживает packwiz из коробки, проверено локальным тестом — сервер поднимается за ~12 секунд).

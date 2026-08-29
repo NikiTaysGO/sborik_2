@@ -12,7 +12,7 @@ services:
       FORGE_VERSION: "65.1.0"
       MEMORY: "8G"
       USE_AIKAR_FLAGS: "true"
-      PACKWIZ_URL: "${PACKWIZ_URL}"
+      PACKWIZ_URL: "https://raw.githubusercontent.com/NikiTaysGO/sborik_2/main/packwiz/pack.toml"
     volumes:
       - ./data:/data
     stdin_open: true
