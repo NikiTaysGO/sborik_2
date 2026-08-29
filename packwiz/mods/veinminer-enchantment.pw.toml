@@ -1,0 +1,8 @@
+name = "Veinminer Enchantment"
+filename = "ly-veinminer-enchantment-v1.0.4.jar"
+side = "both"
+
+[download]
+url = "{{PACK_BASE_URL}}/mods/ly-veinminer-enchantment-v1.0.4.jar"
+hash-format = "sha256"
+hash = "a34ef350ed19fc968b5ece4bde066ba955ccfeba815e7a0f4665fd28c751905d"

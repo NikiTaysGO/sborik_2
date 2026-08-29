@@ -1,0 +1,13 @@
+name = "Packed Up (Backpacks)"
+filename = "packedup-1.1.1-forge-mc26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c81a92612920a1000dfe4d5ed486e58f4010cc2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8610572
+project-id = 361867

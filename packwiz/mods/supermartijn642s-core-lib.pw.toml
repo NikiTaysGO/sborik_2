@@ -1,0 +1,13 @@
+name = "SuperMartijn642's Core Lib"
+filename = "supermartijn642corelib-1.1.24a-forge-mc26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98656689f371b8f67d5f2a9c8d5fc93583149251"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8735365
+project-id = 454372

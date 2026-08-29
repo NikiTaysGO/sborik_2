@@ -1,0 +1,111 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "a30071658f3f4d5b9702f01b612a888dc0d449aceb3b5b36d7a97c2b6dc20634"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "2ada60ce823cae8ec6c9e77c06cbde061cd3f6eb8b8fce014827bbe23fb9fd84"
+metafile = true
+
+[[files]]
+file = "mods/death-backup.pw.toml"
+hash = "7c919339bfa02183a736dc85cadbf7dd45a403cb19ffe7a8f85a1a1df5c65898"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-extractor.pw.toml"
+hash = "fe3586269c1ddef4730ee54fc3d46b17f9b145b9bd4a4fd7486adcd479428d3f"
+metafile = true
+
+[[files]]
+file = "mods/essential-homes.pw.toml"
+hash = "7afaab853d904fa5ee27443c2a1e53bb40d9a8ae760a3485c1555c4a1ddb4603"
+metafile = true
+
+[[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "c614f8a82d7b8b3ccd5a5fcd1be86d40c6799c91d8cd96db104937f67883b674"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "14797204956ebcb1ad6943b4337fb3c68fc65fda7cc5b02972546e9b1edef839"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "544300e1dcac7535b7fe46f0055d52b5d5513dca3e31d0543aa0829073f4eb99"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "515935b0c54bcfb017cf08496904548f7e5c8de9e469ea613f3dfd2331ce1ea2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "807fbeb438bdb3cc3ed2368d3ee4547f7ead4ab0a53ec138b154c554e3f0ad69"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "ef4356a6f093fa40293570ec47b357f8233dffcc5435a88b45806aebacf66a1a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "fd121c3307f15be117b3e9d0a65aa5584bf49359900f628dbe0ea39b55bbec05"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "178bc1f8d3089eeac45728d44462d22823cb633bbe10a7aedba4d2bcfe8c82bb"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "daf897934d35af569b419e2439396ae925df6b676d129ec5750fad65e7f0b2c6"
+metafile = true
+
+[[files]]
+file = "mods/packed-up-backpacks.pw.toml"
+hash = "4aad875db2f7e860051b67e5d46a11b810e64fb3e2fd6c8a5c33a5b13e37781b"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "15e71c15de39ea069d4b904cef21ad6a88ce7bc1b307c9ef8ee2045c58a4e3a0"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "ff135e6a9200a81d00dc4624cb2eccd65aaeb46e5005aa11610c694650a73434"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "d34d094666039c8b98cdb4e7807a1ba514b60f2514cd161b49035a768e74fd8a"
+metafile = true
+
+[[files]]
+file = "mods/veinminer-enchantment.pw.toml"
+hash = "7291b9fe6ef9569d7ef94f175499f69c9fe05a85646c3d2f893362823fbe751e"
+metafile = true
+
+[[files]]
+file = "mods/wolf-saddle-bag.pw.toml"
+hash = "0f44d25ad0862a6530ed1e3963b658ee54713fab6f5567c20842915ff4b4fbb5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "e38ec394a3ace8c35bb4072f5c5d794118b54f6448920c39f190a1ddf1f40072"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "640d9eb140f2bd712e51dff9fc93f8e8b4618ece5138826023821eaabcb2807d"
+metafile = true

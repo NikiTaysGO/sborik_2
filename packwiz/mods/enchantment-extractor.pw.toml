@@ -1,0 +1,13 @@
+name = "Enchantment Extractor (Fabric/Forge/NeoForge/Quilt)"
+filename = "enchantment-extractor-v1.2.4-1.21.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4503447d7f02f3dae3382076b068d47f1bac65b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7205862
+project-id = 1215043

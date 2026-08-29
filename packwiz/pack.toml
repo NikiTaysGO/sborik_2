@@ -1,0 +1,13 @@
+name = "Minecraft Server Pack"
+author = "nikitays0987"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "87f3f1a4f705f7f3c3fb68924ee4512e8f87d4775e522b57dae36712ededdac4"
+
+[versions]
+forge = "65.1.0"
+minecraft = "26.2"

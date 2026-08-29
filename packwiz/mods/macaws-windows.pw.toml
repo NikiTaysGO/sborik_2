@@ -1,0 +1,13 @@
+name = "Macaw's Windows"
+filename = "mcw-windows-2.4.2-mc26.2forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2328f7134f9f11d014181b66714bfafc54da9f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8286528
+project-id = 363569
