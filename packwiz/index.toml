@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-homes.pw.toml"
-hash = "7afaab853d904fa5ee27443c2a1e53bb40d9a8ae760a3485c1555c4a1ddb4603"
+hash = "c65a9e400981715516296a39627b50722a5b1fbe5bcb2cc077c51706438f3bca"
 metafile = true
 
 [[files]]
@@ -92,12 +92,12 @@ metafile = true
 
 [[files]]
 file = "mods/veinminer-enchantment.pw.toml"
-hash = "7291b9fe6ef9569d7ef94f175499f69c9fe05a85646c3d2f893362823fbe751e"
+hash = "2beb455389fa3fe0f20f7dcaf4dbdfa889b5f46eaad4dc4928d6c23b07e213e7"
 metafile = true
 
 [[files]]
 file = "mods/wolf-saddle-bag.pw.toml"
-hash = "0f44d25ad0862a6530ed1e3963b658ee54713fab6f5567c20842915ff4b4fbb5"
+hash = "51384dbcc6ca5d8a87ed820986d7aa0952176048363ceb14f39d7ca80945007d"
 metafile = true
 
 [[files]]

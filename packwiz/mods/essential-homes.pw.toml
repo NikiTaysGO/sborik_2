@@ -3,6 +3,6 @@ filename = "(FORGE)EssentialHomes26.2.jar"
 side = "both"
 
 [download]
-url = "{{PACK_BASE_URL}}/mods/(FORGE)EssentialHomes26.2.jar"
+url = "https://raw.githubusercontent.com/NikiTaysGO/sborik_2/main/packwiz/mods/(FORGE)EssentialHomes26.2.jar"
 hash-format = "sha256"
 hash = "e47965cbc4a33c4dbc149644b2be5329f36a13b35843df990837268937179c42"

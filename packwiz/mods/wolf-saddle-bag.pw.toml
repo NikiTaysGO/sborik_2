@@ -3,6 +3,6 @@ filename = "wolfSaddle-bag-26.2-Forge-1.0.0.jar"
 side = "both"
 
 [download]
-url = "{{PACK_BASE_URL}}/mods/wolfSaddle-bag-26.2-Forge-1.0.0.jar"
+url = "https://raw.githubusercontent.com/NikiTaysGO/sborik_2/main/packwiz/mods/wolfSaddle-bag-26.2-Forge-1.0.0.jar"
 hash-format = "sha256"
 hash = "96ba478a4d855548dc0412896ab776644250aa34e07bb9760e9d8b6e5997a6b4"
