@@ -1,0 +1,8 @@
+name = "Sodium Forge Edition"
+filename = "sodium-forge-0.9.1-SNAPSHOT+mc26.2-local.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/NikiTaysGO/sborik_2/main/packwiz/mods/sodium-forge-0.9.1-SNAPSHOT+mc26.2-local.jar"
+hash-format = "sha256"
+hash = "8e005b6dc02b869d1f4bcea8db0c40c6bb5fa6985156eae1dbaf95fc082cdb8f"

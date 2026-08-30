@@ -36,6 +36,11 @@ hash = "14797204956ebcb1ad6943b4337fb3c68fc65fda7cc5b02972546e9b1edef839"
 metafile = true
 
 [[files]]
+file = "mods/iris-for-forge.pw.toml"
+hash = "f834679e4a5f7180716ace6754793631adc59511b13a5fa80ecbd0c5af908665"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "544300e1dcac7535b7fe46f0055d52b5d5513dca3e31d0543aa0829073f4eb99"
 metafile = true
@@ -71,13 +76,13 @@ hash = "daf897934d35af569b419e2439396ae925df6b676d129ec5750fad65e7f0b2c6"
 metafile = true
 
 [[files]]
-file = "mods/oculus-community-port.pw.toml"
-hash = "3d282155b27362d0d32122d5435e7a13e0ce11a821b400a9357fa25774f46375"
+file = "mods/packed-up-backpacks.pw.toml"
+hash = "4aad875db2f7e860051b67e5d46a11b810e64fb3e2fd6c8a5c33a5b13e37781b"
 metafile = true
 
 [[files]]
-file = "mods/packed-up-backpacks.pw.toml"
-hash = "4aad875db2f7e860051b67e5d46a11b810e64fb3e2fd6c8a5c33a5b13e37781b"
+file = "mods/sodium-forge-edition.pw.toml"
+hash = "87165e14eb00189dd4d4a1194bd5c348fe57ddf2ecbc1d3aea3b9805eab69fe5"
 metafile = true
 
 [[files]]

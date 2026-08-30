@@ -1,0 +1,8 @@
+name = "Iris for Forge"
+filename = "iris-forge-1.11.2+mc26.2.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/NikiTaysGO/sborik_2/main/packwiz/mods/iris-forge-1.11.2+mc26.2.jar"
+hash-format = "sha256"
+hash = "5b3fc9e3e41d073597ac9d235856e49dd36a9637fa4169014039ad1631822af1"
