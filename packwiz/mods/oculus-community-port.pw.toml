@@ -1,0 +1,13 @@
+name = "Oculus Community Port"
+filename = "oculus-forge-26.2-0.3.0-beta.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ad2ff8a95525e9ab30dca76f0095b87315cbf486"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8661452
+project-id = 1630238
