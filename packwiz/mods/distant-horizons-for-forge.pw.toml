@@ -1,0 +1,13 @@
+name = "Distant Horizons for Forge"
+filename = "DistantHorizons-forge-3.2.1-b-dev-26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e81afe6de2675361e06ff0bca41c70c84306c7e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8707675
+project-id = 1653868
