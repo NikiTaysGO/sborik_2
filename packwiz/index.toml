@@ -16,11 +16,6 @@ hash = "7c919339bfa02183a736dc85cadbf7dd45a403cb19ffe7a8f85a1a1df5c65898"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons-for-forge.pw.toml"
-hash = "6aa36566e469350c6aa81ca11b185cfe8b769cb717412e930a94ac8e9d13a926"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-extractor.pw.toml"
 hash = "fe3586269c1ddef4730ee54fc3d46b17f9b145b9bd4a4fd7486adcd479428d3f"
 metafile = true
