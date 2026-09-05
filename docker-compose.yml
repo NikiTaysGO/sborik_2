@@ -1,16 +1,16 @@
 services:
   minecraft:
     image: itzg/minecraft-server:latest
-    container_name: minecraft-forge
+    container_name: minecraft-neoforge
     restart: unless-stopped
     ports:
       - "25565:25565"
     environment:
       EULA: "TRUE"
       ONLINE_MODE: "FALSE"
-      TYPE: "FORGE"
+      TYPE: "NEOFORGE"
       VERSION: "26.2"
-      FORGE_VERSION: "65.1.0"
+      NEOFORGE_VERSION: "26.2.0.76"
       MEMORY: "8G"
       USE_AIKAR_FLAGS: "true"
       PACKWIZ_URL: "https://raw.githubusercontent.com/NikiTaysGO/sborik_2/main/packwiz/pack.toml"

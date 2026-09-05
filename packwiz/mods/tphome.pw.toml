@@ -1,0 +1,13 @@
+name = "TP HOME"
+filename = "tphome-2.0.7+neoforge+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wDbytaJP/versions/iBbnYK2t/tphome-2.0.7%2Bneoforge%2B26.2.jar"
+hash-format = "sha512"
+hash = "c6b30cdf3ef6b28240ff3ff05c42d133a5c02a95662fa8d2d4a8f22f00581c32fdf4004ebd9dfeb1914600dc71021c86ad59dda43fef0f7578d7394af078c335"
+
+[update]
+[update.modrinth]
+mod-id = "wDbytaJP"
+version = "iBbnYK2t"

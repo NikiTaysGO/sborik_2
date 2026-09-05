@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
-hash = "a30071658f3f4d5b9702f01b612a888dc0d449aceb3b5b36d7a97c2b6dc20634"
+hash = "761fa43aa2b7e9ed88dd7054f58cc405b806f77ccf5a2dd648226532cd0edb95"
 metafile = true
 
 [[files]]
@@ -21,83 +21,83 @@ hash = "fe3586269c1ddef4730ee54fc3d46b17f9b145b9bd4a4fd7486adcd479428d3f"
 metafile = true
 
 [[files]]
-file = "mods/essential-homes.pw.toml"
-hash = "c65a9e400981715516296a39627b50722a5b1fbe5bcb2cc077c51706438f3bca"
-metafile = true
-
-[[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "c614f8a82d7b8b3ccd5a5fcd1be86d40c6799c91d8cd96db104937f67883b674"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "14797204956ebcb1ad6943b4337fb3c68fc65fda7cc5b02972546e9b1edef839"
+hash = "306b10967ede45effaeb709b1a7b43f85a4b2121ecd52cff32729abae71d2a9e"
 metafile = true
 
 [[files]]
-file = "mods/iris-for-forge.pw.toml"
-hash = "f834679e4a5f7180716ace6754793631adc59511b13a5fa80ecbd0c5af908665"
+file = "mods/iris.pw.toml"
+hash = "540557010196bee46d93ec915d9761d4355ead20688b9c681bfb9e9a0ba8d4c7"
 metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "544300e1dcac7535b7fe46f0055d52b5d5513dca3e31d0543aa0829073f4eb99"
+hash = "2cd31c9ce0a0216e04c418d790ae9c10b33d15d3d4491d47e9174ec5da1a134a"
 metafile = true
 
 [[files]]
 file = "mods/macaws-doors.pw.toml"
-hash = "515935b0c54bcfb017cf08496904548f7e5c8de9e469ea613f3dfd2331ce1ea2"
+hash = "7f76caa390e35de6943cb6f95c581eb577cfd59ffa569d142701a4012e8232ee"
 metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "807fbeb438bdb3cc3ed2368d3ee4547f7ead4ab0a53ec138b154c554e3f0ad69"
+hash = "cdf9513661de65881ad9094cddc09fad2fa61e5616861017da99a353a5ef1184"
 metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "ef4356a6f093fa40293570ec47b357f8233dffcc5435a88b45806aebacf66a1a"
+hash = "207bf6d977898d74aa01cd2d47aaafbc542994790a6e3f4fc814843183e358eb"
 metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "fd121c3307f15be117b3e9d0a65aa5584bf49359900f628dbe0ea39b55bbec05"
+hash = "857e1a6f67b1e0d7601bfa59b006ead272edee58cafb6278a83c44eb5e5108f9"
 metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "178bc1f8d3089eeac45728d44462d22823cb633bbe10a7aedba4d2bcfe8c82bb"
+hash = "17f1c2e60c4a658a6927797c84f1c4f4364a01d6363c277610fddacadc63a8f1"
 metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "daf897934d35af569b419e2439396ae925df6b676d129ec5750fad65e7f0b2c6"
+hash = "dacaa50b05f801f92e5d7f55dd53094cb7a279bc7e6e735b142ddb632917bc55"
 metafile = true
 
 [[files]]
 file = "mods/packed-up-backpacks.pw.toml"
-hash = "4aad875db2f7e860051b67e5d46a11b810e64fb3e2fd6c8a5c33a5b13e37781b"
+hash = "1733ecca21aefa2db3217d4e10ba92da5e259966010f5325273f6a2782fba78a"
 metafile = true
 
 [[files]]
-file = "mods/sodium-forge-edition.pw.toml"
-hash = "87165e14eb00189dd4d4a1194bd5c348fe57ddf2ecbc1d3aea3b9805eab69fe5"
+file = "mods/sodium.pw.toml"
+hash = "bb19a6aab2edee48310f996451d4af01af4e95256fb0f762ac8f812596e18def"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "15e71c15de39ea069d4b904cef21ad6a88ce7bc1b307c9ef8ee2045c58a4e3a0"
+hash = "f0ed3543c22912b36d72d8a71fd64370c8cd668511f49b0b62f09a60826a2726"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "ff135e6a9200a81d00dc4624cb2eccd65aaeb46e5005aa11610c694650a73434"
+hash = "281f98574e0a01981cff0553e5dc196a0789990aa72b5460d7cf776aad46f490"
+metafile = true
+
+[[files]]
+file = "mods/tphome.pw.toml"
+hash = "77e659b1b4aca3d5b69bc9eb467543a67d061e4b25a9f2bdeaa7b00b93af858d"
 metafile = true
 
 [[files]]
 file = "mods/trash-cans.pw.toml"
-hash = "d34d094666039c8b98cdb4e7807a1ba514b60f2514cd161b49035a768e74fd8a"
+hash = "0edc292eb2845a37e07e04844efd55fe9300bf6eadac705963f406519372a3d5"
 metafile = true
 
 [[files]]
@@ -107,17 +107,17 @@ metafile = true
 
 [[files]]
 file = "mods/wolf-saddle-bag.pw.toml"
-hash = "51384dbcc6ca5d8a87ed820986d7aa0952176048363ceb14f39d7ca80945007d"
+hash = "ecc75fe658c19db930f2918e2ce1ec5d6dfd2952e363ff3d21b204f1062f234c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e38ec394a3ace8c35bb4072f5c5d794118b54f6448920c39f190a1ddf1f40072"
+hash = "98ff40dbd172ba0b1753134b8165a12082a231ae25142fb11e86db0320ef6e92"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "640d9eb140f2bd712e51dff9fc93f8e8b4618ece5138826023821eaabcb2807d"
+hash = "411ee38e4dbeccc946a55bcbed97c7dfea252584acfd039f97e642c3f42a8399"
 metafile = true
 
 [[files]]
