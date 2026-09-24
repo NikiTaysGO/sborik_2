@@ -16,6 +16,11 @@ hash = "7c919339bfa02183a736dc85cadbf7dd45a403cb19ffe7a8f85a1a1df5c65898"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "5b5e16a9214accaf905b9cc9852e4d1b9c4dafbb43a85a95d7a6a71861dffac6"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-extractor.pw.toml"
 hash = "fe3586269c1ddef4730ee54fc3d46b17f9b145b9bd4a4fd7486adcd479428d3f"
 metafile = true
@@ -32,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "540557010196bee46d93ec915d9761d4355ead20688b9c681bfb9e9a0ba8d4c7"
+hash = "963514f43dc039eb17887f45aa8038ff8aeb16a14f34aa350d0a713f48212322"
 metafile = true
 
 [[files]]
@@ -77,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6dce38e217c6b652012182ecb9ff0ace868363e189e8c091ee220e86aa981ee8"
+hash = "4872e18eafd42dc75a9af8af495d65e83fbba3f56db151a5cf42de9d2543f727"
 metafile = true
 
 [[files]]
